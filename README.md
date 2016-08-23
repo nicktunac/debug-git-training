@@ -7,4 +7,8 @@ A sample project on how to use debugging in Eclipse and Git
 Contributors:
 
 >[Dominick Tunac](https://nicktunac.github.io)
+>[Katherine Villegas](https://kathvillegas.github.io)
+>[Sophie Fonseca](https://sophiefonseca.github.io)
 >[Marvin Bables] (https://marvinbables.github.io)
+>[Marcelino Madriaga](https://morsemars.github.io)
+>[Chernhelyn Caponpon](https://cicaponpon.github.io)
