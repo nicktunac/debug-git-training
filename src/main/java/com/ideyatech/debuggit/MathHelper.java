@@ -17,4 +17,8 @@ public class MathHelper {
 	
 	//TODO Create other math methods
 
+	public double divide(double a, double b) {
+		return a/b;
+	}
+	
 }
