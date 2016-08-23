@@ -16,6 +16,9 @@ public class MathHelper {
 	}
 	
 	//TODO Create other math methods
+	public int subtract(int a, int b){
+		return a - b;
+	}
 
 	
 	//Method to check if a number is divisible by another number
