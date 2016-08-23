@@ -23,12 +23,8 @@ public class MainClass {
 		MathHelper mh = new MathHelper();
 		
 		int addValue = mh.add(10, 10);
-<<<<<<< HEAD
 		int multiplyValue = mh.multiply(256, 13);
-=======
 		double divideValue = mh.divide(50, 15);
-		
->>>>>>> f562eac62c2edba320cafbdc23426812530ef708
 		
 	}
 	
