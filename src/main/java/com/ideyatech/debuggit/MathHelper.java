@@ -9,6 +9,7 @@ public class MathHelper {
 	}
 	
 	//TODO Create other math methods
+
 	
 	//Method to check if a number is divisible by another number
 	public int modulo(int a, int b){
@@ -20,4 +21,10 @@ public class MathHelper {
 			return 0; //the number is not divisible
 		}
 	}
+
+
+	public double divide(double a, double b) {
+		return a/b;
+	}
+
 }

@@ -9,6 +9,8 @@ public class MainClass {
 		
 		int result = someMethod(someValue);
 		
+		
+		
 		System.out.println(result);
 		
 		if (result == 10) {
@@ -21,9 +23,10 @@ public class MainClass {
 		
 		MathHelper mh = new MathHelper();
 		
+
 		int addValue = mh.add(10, 10);		
 		int modulo = mh.modulo(10, 2);
-		
+		double divideValue = mh.divide(50, 15);
 		
 		
 	}
