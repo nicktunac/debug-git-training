@@ -8,7 +8,17 @@ public class MathHelper {
 		
 	}
 	
+	//multiply two integers
+	public int multiply(int a, int b) {
+		
+		return a * b;
+		
+	}
+	
 	//TODO Create other math methods
+	public int subtract(int a, int b){
+		return a - b;
+	}
 
 	
 	//Method to check if a number is divisible by another number

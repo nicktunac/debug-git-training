@@ -20,15 +20,14 @@ public class MainClass {
 		}
 		
 		
-		
 		MathHelper mh = new MathHelper();
 		
-
-		int addValue = mh.add(10, 10);		
+		int addValue = mh.add(10, 10);
+		int multiplyValue = mh.multiply(256, 13);
+		int subValue = mh.subtract(30, 15);
 		int modulo = mh.modulo(10, 2);
 		double divideValue = mh.divide(50, 15);
 		double powerValue = mh.power(5, 6);
-		
 		
 	}
 	
