@@ -9,5 +9,7 @@ public class MathHelper {
 	}
 	
 	//TODO Create other math methods
-
+	public int subtract(int a, int b){
+		return a - b;
+	}
 }
