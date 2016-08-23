@@ -21,7 +21,8 @@ public class MainClass {
 		
 		MathHelper mh = new MathHelper();
 		
-		int addValue = mh.add(10, 10);
+		int addValue = mh.add(10, 10);		
+		int modulo = mh.modulo(10, 2);
 		
 		
 		
