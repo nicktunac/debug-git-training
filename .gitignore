@@ -1,5 +1,11 @@
 /target/
+<<<<<<< HEAD
 .classpath
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.m2e.core.prefs
+=======
+/bin/
+.settings/
+.classpath
+>>>>>>> accc91bf83ed29f4168a435e61d1814770b59114
 .project
