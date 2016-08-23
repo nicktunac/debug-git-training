@@ -28,7 +28,7 @@ public class MainClass {
 		int modulo = mh.modulo(10, 2);
 		double divideValue = mh.divide(50, 15);
 		double powerValue = mh.power(5, 6);
-		
+		int factorial = mh.factorial(5);
 	}
 	
 	public static int someMethod(int someValue) {

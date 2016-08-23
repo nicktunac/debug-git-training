@@ -40,5 +40,14 @@ public class MathHelper {
 	public double power(int a, int b){
 		return Math.pow(a, b);
 	}
+
+	public int factorial(int a){
+		int x = 1;
+		for(int i=1; i <= a; i++){
+			x = x * i;
+		}
+		return x;
+	}
+
 	
 }
