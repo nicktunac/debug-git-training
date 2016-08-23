@@ -25,6 +25,7 @@ public class MainClass {
 		
 		int addValue = mh.add(10, 10);
 		double divideValue = mh.divide(50, 15);
+		double powerValue = mh.power(5, 6);
 		
 		
 	}
