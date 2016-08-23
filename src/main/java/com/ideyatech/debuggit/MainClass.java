@@ -24,7 +24,8 @@ public class MainClass {
 		MathHelper mh = new MathHelper();
 		
 		int addValue = mh.add(10, 10);
-		int subValue = mh.subtract(30, 15);
+		int subValue = mh.subtract(30, 15);		
+		int modulo = mh.modulo(10, 2);
 		double divideValue = mh.divide(50, 15);
 		
 		
