@@ -6,4 +6,5 @@ A sample project on how to use debugging in Eclipse and Git
 
 Contributors:
 
->[Dominick Tunac](https://nicktunac.github.io)
+>[Dominick Tunac](https://nicktunac.github.io)\n
+>[Johanna Favorito](https://johannafav.github.io)\n
