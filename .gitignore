@@ -1,5 +1,10 @@
 /target/
+<<<<<<< HEAD
 .settings/
 bin/
+=======
+/bin/
+.settings/
+>>>>>>> accc91bf83ed29f4168a435e61d1814770b59114
 .classpath
 .project
