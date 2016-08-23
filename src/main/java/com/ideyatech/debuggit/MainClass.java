@@ -18,12 +18,10 @@ public class MainClass {
 		}
 		
 		
-		
 		MathHelper mh = new MathHelper();
 		
 		int addValue = mh.add(10, 10);
-		
-		
+		int multiplyValue = mh.multiply(256, 13);
 		
 	}
 	
